@@ -119,7 +119,7 @@ namespace SnakeGame
                 }
             }
         }
-
+        //moving snake function
         public void MoveSnake()
         {
             Coordinate head = snake[0];
